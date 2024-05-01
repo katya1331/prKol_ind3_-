@@ -1,0 +1,10 @@
+C:\Users\31nob\OneDrive\Рабочий стол\Программы\Основы алгритмизции\pract15.1Al\bin\Debug\pract15.1Al.exe.config
+C:\Users\31nob\OneDrive\Рабочий стол\Программы\Основы алгритмизции\pract15.1Al\bin\Debug\pract15.1Al.exe
+C:\Users\31nob\OneDrive\Рабочий стол\Программы\Основы алгритмизции\pract15.1Al\bin\Debug\pract15.1Al.pdb
+C:\Users\31nob\OneDrive\Рабочий стол\Программы\Основы алгритмизции\pract15.1Al\obj\Debug\pract15.1Al.csproj.AssemblyReference.cache
+C:\Users\31nob\OneDrive\Рабочий стол\Программы\Основы алгритмизции\pract15.1Al\obj\Debug\pract15._1Al.Form1.resources
+C:\Users\31nob\OneDrive\Рабочий стол\Программы\Основы алгритмизции\pract15.1Al\obj\Debug\pract15._1Al.Properties.Resources.resources
+C:\Users\31nob\OneDrive\Рабочий стол\Программы\Основы алгритмизции\pract15.1Al\obj\Debug\pract15.1Al.csproj.GenerateResource.cache
+C:\Users\31nob\OneDrive\Рабочий стол\Программы\Основы алгритмизции\pract15.1Al\obj\Debug\pract15.1Al.csproj.CoreCompileInputs.cache
+C:\Users\31nob\OneDrive\Рабочий стол\Программы\Основы алгритмизции\pract15.1Al\obj\Debug\pract15.1Al.exe
+C:\Users\31nob\OneDrive\Рабочий стол\Программы\Основы алгритмизции\pract15.1Al\obj\Debug\pract15.1Al.pdb
